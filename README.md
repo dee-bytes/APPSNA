@@ -1,1 +1,1 @@
-# APPSNA-Assignments
+# APPSNA
